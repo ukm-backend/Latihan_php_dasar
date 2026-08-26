@@ -1,0 +1,148 @@
+$nilai = 5;
+ 
+while ( $nilai >= 1 ) {
+            echo $nilai . "\n";
+            $nilai -- ;
+}
+
+
+$nilai = 2;
+
+while ( $nilai => 10 ) {
+         echo $nilai . "\n";
+         $nilai +=2 ;
+
+}
+
+$nilai = 1:
+
+while ( $nilai => 9 ) {
+         echo $nilai . "\n";
+         $nilai += 2;
+}
+
+$nilai = 1;
+
+while ( $nilai => 10 ) {
+         echo $nilai . "\n";
+         $nilai ++;
+}
+
+$nilai = 10;
+
+while ( $nilai >= 1 ) {
+          echo $nilai . "\n";
+          $nilai ++;
+}
+
+$nilai = 5;
+
+while ( $nilai <= 50 ) {
+          echo $nilai . "\n";
+         $nilai += 5;
+}
+
+$nama = "Budi";
+
+while ( $nama <= 5 ) {
+         echo $nama . "\n";
+         $nilai ++;
+}
+
+$nilai = 20;
+
+while ( $nilai >= 5 ) {
+         echo $nilai . "\n";
+         $nilai -= 5;
+}
+
+$nilai = 10;
+
+while ( $nilai <= 30 ) {
+         echo $nilai . "\n";
+         $nilai += 5;
+}
+
+$nilai = 3;
+
+while ( $nilai <= 15 ) {
+          echo $nilai . "\n";
+          $nilai += 3;
+}
+
+
+$nilai = 50 ;
+
+while ( $nilai >= 10 ) {
+         echo $nilai . "\n";
+         $nilai -= 10;
+}
+
+$nilai = 2;
+
+while ( $nilai <= 10 ) {
+          echo $nilai . "\n";
+          $nilai += 2;
+}
+
+$nilai = 100;
+
+while ( $nilai >= 50 ) {
+          echo $nilai . "\n";
+          $nilai -=10;
+}
+
+$nilai = 0.5;
+
+while ( $nilai <= 3.5 ) {
+         echo $nilai . "\n";
+         $nilai += 0.5;
+}
+
+$nilai = 105;
+
+while ( $nilai >= 95 ) {
+         echo $nilai . "\n";
+         $nilai -= 2;
+}
+
+$nilai = 250;
+
+while ( $nilai <= 450 ) {
+         echo $nilai . "\n";
+         $nilai += 50;
+}
+
+$nilai = 1500;
+
+while ( $nilai >= 1100 ) {
+         echo $nilai . "\n";
+         $nilai -= 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
