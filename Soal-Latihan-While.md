@@ -16,20 +16,20 @@ Tuliskan kode PHP untuk menyelesaikan setiap soal.
 
 Fokus latihan:
 
-* Membuat kondisi `while`
-* Mengubah nilai variabel di dalam `while`
-* Memahami kapan perulangan berhenti
-* Menggunakan operator perbandingan
-* Menghindari infinite loop
+- Membuat kondisi `while`
+- Mengubah nilai variabel di dalam `while`
+- Memahami kapan perulangan berhenti
+- Menggunakan operator perbandingan
+- Menghindari infinite loop
 
 Belum diperbolehkan menggunakan:
 
-* `for`
-* `foreach`
-* `do...while`
-* `break`
-* `continue`
-* Array
+- `for`
+- `foreach`
+- `do...while`
+- `break`
+- `continue`
+- Array
 
 ---
 
@@ -47,6 +47,7 @@ Output yang diharapkan:
 3
 4
 5
+
 ```
 
 ---
